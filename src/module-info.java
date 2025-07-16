@@ -1,0 +1,2 @@
+module JavaclassA4 {
+}
