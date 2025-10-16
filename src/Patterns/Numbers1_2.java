@@ -17,4 +17,6 @@ public class Numbers1_2 {
 	System.out.println();
 	}
 	}
-}
+	 
+	    }
+

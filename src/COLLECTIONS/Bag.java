@@ -18,7 +18,7 @@ public class Bag {
 		System.out.println(bag1);
         bag1.add(2,bag2);
         System.out.println(bag1);
-        bag1.getFirst();
+        //bag1.getFirst();
         System.out.println(bag1);
         
 		}
